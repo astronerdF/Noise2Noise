@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: nosie2noise
+Version: 1.0
+License-File: LICENSE
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: numpy
+Requires-Dist: Pillow
+Requires-Dist: matplotlib
+Requires-Dist: OpenEXR
