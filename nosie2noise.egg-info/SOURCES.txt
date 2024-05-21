@@ -1,4 +1,5 @@
 LICENSE
+README.md
 setup.py
 noise2noise/__init__.py
 noise2noise/datasets.py
