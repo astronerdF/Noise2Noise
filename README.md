@@ -7,6 +7,6 @@ This package implements the Noise2Noise image denoising technique described by L
 Clone the repository and install the package:
 
 ```bash
-git clone https://github.com/yourusername/noise2noise-denoising.git
+git clone https://github.com/astronerdF/Noise2Noise.git
 cd noise2noise-denoising
 pip install -e .
